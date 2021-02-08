@@ -1,6 +1,6 @@
 print("Hello World")
 x=1
-y=2
+y=2.5
 print(x+y)
 print("Done")
 a=[1,2,3,4,5]
